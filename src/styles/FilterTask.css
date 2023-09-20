@@ -1,0 +1,24 @@
+.filterTask {
+  display: flex;
+  flex-direction: column;
+}
+
+.filterTop {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.filterHead {
+  padding-right: 10rem;
+  margin-right: auto;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.filterRadio {
+  margin-top: auto;
+  margin-right: auto;
+  display: flex;
+  gap: 1rem;
+}

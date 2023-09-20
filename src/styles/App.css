@@ -1,0 +1,24 @@
+.sortList {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.filterList {
+    width: 50%;
+    padding: 0 2rem
+}
+
+.todoList {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    padding: 0 2rem;
+}
+
+.todoListTitle {
+    margin: auto;
+    font-size: 1.8rem;
+    font-weight: bold;
+}
